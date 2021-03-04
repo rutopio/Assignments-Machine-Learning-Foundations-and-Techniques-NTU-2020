@@ -1,6 +1,14 @@
 # Machine Learning Foundations/Techniques, Fall 2020
 
-Prof. Hsuan-Tien Lin, National Taiwan University
+**※ 作業的答案僅供參考 ※**
+
+## Course Information
+
+- Instructor: Prof. Hsuan-Tien Lin, National Taiwan University
+- Time: Tuesdays 10:20 to 12:10; Fridays 10:20 to 12:10
+- Room: NTU Lecture Hall, Multi-Purpose Classroom Building with syncronized live lecture in NTU CSIE Building, R103 if too many people are in the room
+- Textbook: Learning from Data, by Yaser Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin
+
 
 ## Course Description
 
